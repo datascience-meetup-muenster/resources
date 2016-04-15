@@ -1,5 +1,6 @@
 # resources
 Links to newsletters etc. to learn and keep informed about data science
+...and always the name of the person in parentheses that recommends the resource
 
 ## Newsletters
 - [Data Machina](http://datamachina.com) (Tobias Pfaff)
@@ -12,3 +13,8 @@ Links to newsletters etc. to learn and keep informed about data science
 
 ## Online courses
 - [Machine Learning, Andrew Ng, Stanford University](https://www.coursera.org/learn/machine-learning) (Tobias Pfaff)
+- [Machine Learning für Einsteiger, Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf&feature=view_all) (Florian Kleene)
+- [Machine Learning für Fortgeschrittene, Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6&feature=view_all) (Florian Kleene)
+- 
+## Logo
+![logo](logo.png)
