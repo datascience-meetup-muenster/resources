@@ -16,5 +16,13 @@ Links to newsletters etc. to learn and keep informed about data science
 - [Machine Learning für Einsteiger, Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf&feature=view_all) (Florian Kleene)
 - [Machine Learning für Fortgeschrittene, Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6&feature=view_all) (Florian Kleene)
 
+## Tutorials
+- [Deep Learning Tutorials](http://deeplearning.net/reading-list/tutorials/) (Omer Maqsood)
+
+## Papers
+[ImageNet Classification with Deep Convolutional Neural Networks, Hinton et al.](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) (Omer Maqsood)
+[Deep Learning, Le Cun et al.](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) (Omer Maqsood)
+
+
 ## Logo
 ![logo](logo.png)
