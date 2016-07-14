@@ -21,11 +21,14 @@ Links to newsletters etc. to learn and keep informed about data science
 
 ## Books
 - [Good Books for All Things Data](http://multithreaded.stitchfix.com/blog/2016/06/09/ds-books/) (list compiled by Hilary Parker and Brian Coffey)
+- [Conversations on Data Science](https://leanpub.com/conversationsondatascience) by Roger D. Peng and Hilary Parker (Daniel Nüst)
 
 ## Papers
 - [ImageNet Classification with Deep Convolutional Neural Networks, Hinton et al.](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) (Omer Maqsood)
 - [Deep Learning, Le Cun et al.](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) (Omer Maqsood)
 
+## Podcasts
+- [Not So Standard Deviations](https://soundcloud.com/nssd-podcast) (Daniel Nüst)
 
 ## Logo
 ![logo](logo.png)
