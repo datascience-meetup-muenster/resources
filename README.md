@@ -18,6 +18,7 @@ Links to newsletters etc. to learn and keep informed about data science
 
 ## Tutorials
 - [Deep Learning Tutorials](http://deeplearning.net/reading-list/tutorials/) (Omer Maqsood)
+- [Data Science is Software](https://github.com/drivendata/data-science-is-software/tree/master/slides) - How to better organize your data science project (Tobias Pfaff) [also as [video](https://www.youtube.com/watch?v=EKUy0TSLg04)]
 
 ## Books
 - [Good Books for All Things Data](http://multithreaded.stitchfix.com/blog/2016/06/09/ds-books/) (list compiled by Hilary Parker and Brian Coffey)
